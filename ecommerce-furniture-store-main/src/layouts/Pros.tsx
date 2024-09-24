@@ -24,8 +24,8 @@ const Pros = () => {
       <div className="flex flex-row w-[340px] h-[70px] mb-[40px]">
         <Image src={ship} alt="icon" />
         <div className="ml-[10px] flex flex-col">
-          <h1 className="text-[25px] text-[#242424] font-[600] mont">Free Shipping</h1>
-          <p className="text-[18px] font-[500] text-[#898989] mont">From 15,000 ₽</p>
+          <h1 className="text-[25px] text-[#242424] font-[600] mont">Free Delivery.</h1>
+          <p className="text-[18px] font-[500] text-[#898989] mont">From 15,000 Birr</p>
         </div>
       </div>
       <div className="flex flex-row w-[300px] h-[70px] mb-[40px]">
